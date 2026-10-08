@@ -197,35 +197,9 @@ A saved path allows the robot to start a fast run without having to perform the 
 
 # 🎮 User Interface
 
-The robot uses the front and side IR sensors for simple hand-gesture control.
-
-### Search
-
-With no saved path, placing a hand in front of a front sensor starts the search run.
-
-The robot then:
-
-**Searches → reaches center → returns to start → generates path → saves path**
-
----
-
-### Pivot Fast Run
-
-With a saved path, a gesture in front of the right-side/front sensor selects the pivot fast-run mode.
-
----
-
-### Arc Fast Run
-
-With a saved path, a gesture on the left-side sensor selects the arc fast-run mode.
-
----
-
-### Clear Saved Path
-
-Holding hands in front of both front sensors clears the stored path.
-
-The robot performs a small movement to indicate that the memory has been cleared.
+<p align="center">
+  <img src="media/hero/ui.png" alt="team_members" width="500">
+</p>
 
 ---
 
