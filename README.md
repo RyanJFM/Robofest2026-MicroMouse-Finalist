@@ -155,7 +155,9 @@ Approximate recorded run:
 **~40 seconds**
 
 <p align="center">
-  <img src="media/hero/mansoyanno-demo-pivot.gif" alt="Mansoyanno Demo" width="500">
+  <video src="media/hero/pivot.mp4" width="600" controls autoplay muted loop playsinline>
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ---
@@ -171,7 +173,9 @@ Approximate recorded run:
 **~20 seconds**
 
 <p align="center">
-  <img src="media/hero/mansoyanno-demo-arc.gif" alt="Mansoyanno Demo" width="500">
+  <video src="media/hero/arc.mp4" width="600" controls autoplay muted loop playsinline>
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 The arc run is considerably faster, but requires more precise motion tuning.
