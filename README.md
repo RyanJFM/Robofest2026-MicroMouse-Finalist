@@ -54,6 +54,11 @@ We tested Mansoyanno in three main operating modes:
 
 The arc-based run prioritizes speed by carrying momentum through corners, while the pivot-based run prioritizes repeatability and reliability.
 
+<p align="center">
+  <a href="https://youtube.com/shorts/KOcPeBH9xBc">
+    <img src="https://img.youtube.com/vi/KOcPeBH9xBc/maxresdefault.jpg" alt="Watch Demo Video" width="400">
+  </a>
+</p>
 ---
 
 # 🧠 What Makes Mansoyanno Different?
