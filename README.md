@@ -249,7 +249,7 @@ The robot performs a small movement to indicate that the memory has been cleared
 The four Sharp IR sensors are arranged as:
 
 <p align="center">
-  <img src="media/hero/components.jpeg" alt="Mansoyanno V2" width="500">
+  <img src="media/hero/components.webp" alt="Mansoyanno V2" width="500">
 </p>
 
 Two sensors face forward for front-wall detection and two sensors face sideways for left/right wall detection.
