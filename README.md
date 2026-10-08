@@ -20,6 +20,11 @@ Our biggest competition milestone was **RoboFest 2026**, Sri Lanka's premier rob
 
 **Team Mansoyanno placed among the Top 10 teams from 130 applicants.**
 
+
+<p align="center">
+  <img src="media/hero/team_members.jpeg" alt="team_members" width="500">
+</p>
+
 RoboFest 2026 was held at SLIIT Campus, Malabe, on 27–28 September 2026.
 
 ### Competition
