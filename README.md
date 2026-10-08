@@ -25,20 +25,16 @@ Our biggest competition milestone was **RoboFest 2026**, Sri Lanka's premier rob
   <img src="media/hero/team_members.jpeg" alt="team_members" width="500">
 </p>
 
+### Team Members
+
+* **Bhanuka**
+* **Apurwa**
+* **Ryan**
+* **Tharusha**
+
+The robot was developed collaboratively, including the mechanical design, electronics, firmware, maze-solving system, testing, and competition preparation.
+
 RoboFest 2026 was held at SLIIT Campus, Malabe, on 27–28 September 2026.
-
-### Competition
-
-**Result:** 🏆 Top 10
-**Applicants:** 130
-**Competition:** RoboFest 2026
-**Location:** SLIIT Campus, Malabe, Sri Lanka
-
-### RoboFest Run
-
-> 📹 Competition video will be added here.
-
-<!-- Add the RoboFest video/embed/link here later -->
 
 ---
 
