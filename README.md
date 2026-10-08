@@ -131,7 +131,7 @@ After reaching the goal, Mansoyanno switches its flood-fill target back to the s
 This creates a two-phase search:
 
 <p align="center">
-  <img src="media/hero/diagram.jpeg" alt="Mansoyanno V2" width="500">
+  <img src="media/hero/diagram.jpeg" alt="Mansoyanno V2" width="1000">
 </p>
 
 The return journey can therefore use information discovered during the first exploration and may take a different route.
@@ -223,7 +223,7 @@ A saved path allows the robot to start a fast run without having to perform the 
 The four Sharp IR sensors are arranged as:
 
 <p align="center">
-  <img src="media/hero/components.webp" alt="Mansoyanno V2" width="700">
+  <img src="media/hero/components.webp" alt="Mansoyanno V2" width="1000">
 </p>
 
 Two sensors face forward for front-wall detection and two sensors face sideways for left/right wall detection.
