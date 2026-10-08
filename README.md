@@ -172,6 +172,10 @@ Approximate recorded run:
 
 **~40 seconds**
 
+<p align="center">
+  <img src="media/hero/mansoyanno-demo-pivot.gif" alt="Mansoyanno Demo" width="500">
+</p>
+
 ---
 
 ## Arc Fast Run
@@ -183,6 +187,10 @@ Instead of completely stopping and pivoting at every corner, the robot performs 
 Approximate recorded run:
 
 **~20 seconds**
+
+<p align="center">
+  <img src="media/hero/mansoyanno-demo-arc.gif" alt="Mansoyanno Demo" width="500">
+</p>
 
 The arc run is considerably faster, but requires more precise motion tuning.
 
