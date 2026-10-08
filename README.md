@@ -307,6 +307,10 @@ The project evolved from our earlier Micromouse platform:
 
 Our earlier Micromouse project is available here:
 
+[**Linkedln**](https://www.linkedin.com/feed/update/urn:li:activity:7450205453222944768/)
+<p align="center">
+  <img src="media/hero/first.jpeg" alt="team_members" width="500">
+</p>
 [**Maze Titans — V1 GitHub Repository**](https://github.com/RyanJFM/Maze-Titans)
 
 The first-generation platform helped establish our experience with maze robotics and hardware integration.
