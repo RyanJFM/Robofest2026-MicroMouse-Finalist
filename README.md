@@ -303,14 +303,15 @@ Mansoyanno is our **second-generation Micromouse**.
 
 The project evolved from our earlier Micromouse platform:
 
-**V1 → V2**
+**V1/V1.5 → V2**
 
 Our earlier Micromouse project is available here:
 
-[**Linkedln**](https://www.linkedin.com/feed/update/urn:li:activity:7450205453222944768/)
+[**Full project details at : Linkedln**](https://www.linkedin.com/feed/update/urn:li:activity:7450205453222944768/)
 <p align="center">
   <img src="media/hero/first.jpeg" alt="team_members" width="500">
 </p>
+
 [**Maze Titans — V1 GitHub Repository**](https://github.com/RyanJFM/Maze-Titans)
 
 The first-generation platform helped establish our experience with maze robotics and hardware integration.
@@ -319,8 +320,4 @@ V2 was developed as a more competition-focused platform with a stronger emphasis
 
 ---
 
-# ⭐ Project
 
-**Mansoyanno Micromouse — 2026**
-
-Built, tested, tuned, and competed by **Team Mansoyanno**.
