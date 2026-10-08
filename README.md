@@ -337,18 +337,6 @@ V2 was developed as a more competition-focused platform with a stronger emphasis
 
 ---
 
-# 👥 Team Mansoyanno
-
-### Team Members
-
-* **Bhanuka**
-* **Apurwa**
-* **Ryan**
-* **Tharusha**
-
-The robot was developed collaboratively, including the mechanical design, electronics, firmware, maze-solving system, testing, and competition preparation.
----
-
 # ⭐ Project
 
 **Mansoyanno Micromouse — 2026**
