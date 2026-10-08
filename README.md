@@ -53,12 +53,34 @@ We tested Mansoyanno in three main operating modes:
 | 🚀 Arc Fast Run      | Maximum speed                 |        ~20 s |
 
 The arc-based run prioritizes speed by carrying momentum through corners, while the pivot-based run prioritizes repeatability and reliability.
+---
+
+## 🏆 RoboFest 2026
+
+RoboFest 2026 became the major competition milestone for Mansoyanno.
+
+The team competed at SLIIT's RoboFest 2026 and finished among the **Top 10 teams from 130 applicants**.
 
 <p align="center">
   <a href="https://youtube.com/shorts/KOcPeBH9xBc" target="_blank">
     <img src="media/hero/mansoyanno-video-thumb.jpeg" alt="Watch Mansoyanno in Action" width="350">
   </a>
 </p>
+
+---
+
+# 🏁 Competition Journey
+
+## Micromouse IIT
+
+Our first major competition experience with this generation of the project.
+
+<p align="center">
+  <a href="https://youtu.be/T_v577J7wt4" target="_blank">
+    <img src="media/hero/mansoyanno-search-run-thumb.jpg" alt="Watch Mansoyanno Search Run" width="500">
+  </a>
+</p>
+
 ---
 
 # 🧠 What Makes Mansoyanno Different?
