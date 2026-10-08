@@ -5,7 +5,7 @@
 > An autonomous second-generation Micromouse built by Team Mansoyanno for competitive maze solving.
 
 <p align="center">
-  <img src="media/hero/mansoyanno-v2.jpeg" alt="Mansoyanno V2" width="500">
+  <img src="media/hero/mansoyanno-v2.png" alt="Mansoyanno V2" width="500">
 </p>
 
 **Mansoyanno** is our second-generation Micromouse robot, developed over approximately two months and designed around autonomous maze exploration, flood-fill path planning, sensor-based wall detection, and high-speed path execution.
