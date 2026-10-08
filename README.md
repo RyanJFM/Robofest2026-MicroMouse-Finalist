@@ -337,26 +337,6 @@ V2 was developed as a more competition-focused platform with a stronger emphasis
 
 ---
 
-# 🏁 Competition Journey
-
-## Micromouse IIT
-
-Our first major competition experience with this generation of the project.
-
-📹 Competition footage will be added here.
-
----
-
-## 🏆 RoboFest 2026
-
-RoboFest 2026 became the major competition milestone for Mansoyanno.
-
-The team competed at SLIIT's RoboFest 2026 and finished among the **Top 10 teams from 130 applicants**.
-
-📹 Competition footage will be added here.
-
----
-
 # 👥 Team Mansoyanno
 
 ### Team Members
@@ -367,58 +347,6 @@ The team competed at SLIIT's RoboFest 2026 and finished among the **Top 10 teams
 * **Tharusha**
 
 The robot was developed collaboratively, including the mechanical design, electronics, firmware, maze-solving system, testing, and competition preparation.
-
----
-
-# 🧪 Development Philosophy
-
-The core robot architecture, hardware integration, and initial flood-fill control logic were developed manually by the team.
-
-AI-assisted iteration was later used to help debug, tune, and refine parts of the system.
-
-The final system is the result of repeated hardware testing, software iteration, parameter tuning, and competition preparation.
-
----
-
-# 📁 Repository Structure
-
-```text
-Mansoyanno-Micromouse-2026/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── firmware/
-│   └── micromouse/
-│       └── micromouse.ino
-│
-├── hardware/
-│   └── README.md
-│
-├── docs/
-│   ├── floodfill.md
-│   ├── motion-control.md
-│   └── tuning.md
-│
-├── media/
-│   ├── hero/
-│   ├── robofest/
-│   ├── hardware/
-│   └── development/
-│
-└── competitions/
-    └── README.md
-```
-
----
-
-# 📜 License
-
-This project is shared for educational and robotics-development purposes.
-
-See `LICENSE` for details.
-
 ---
 
 # ⭐ Project
