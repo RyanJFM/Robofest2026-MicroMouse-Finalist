@@ -171,7 +171,7 @@ Approximate recorded run:
 **~20 seconds**
 
 <p align="center">
-  <img src="media/hero/ArcTurns.gif" width="300">
+  <img src="media/hero/ArcTurns.gif" width="600">
 </p>
 
 The arc run is considerably faster, but requires more precise motion tuning.
