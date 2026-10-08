@@ -130,27 +130,9 @@ After reaching the goal, Mansoyanno switches its flood-fill target back to the s
 
 This creates a two-phase search:
 
-```text
-START
-  │
-  ▼
-Explore maze
-  │
-  ▼
-Reach center goal
-  │
-  ▼
-Re-plan using discovered maze
-  │
-  ▼
-Return to START
-  │
-  ▼
-Generate fast path
-  │
-  ▼
-Save path to EEPROM
-```
+<p align="center">
+  <img src="media/hero/diagram.jpeg" alt="Mansoyanno V2" width="500">
+</p>
 
 The return journey can therefore use information discovered during the first exploration and may take a different route.
 
