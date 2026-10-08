@@ -171,9 +171,7 @@ Approximate recorded run:
 **~20 seconds**
 
 <p align="center">
-  <video src="media/hero/arc.mp4" width="600" controls autoplay muted loop playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img src="media/hero/ArcTurns.gif" width="300">
 </p>
 
 The arc run is considerably faster, but requires more precise motion tuning.
