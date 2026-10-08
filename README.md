@@ -48,7 +48,6 @@ We tested Mansoyanno in three main operating modes:
 | ⚡ Pivot Fast Run     | Reliable high-speed execution |        ~40 s |
 | 🚀 Arc Fast Run      | Maximum speed                 |        ~20 s |
 
-The arc-based run prioritizes speed by carrying momentum through corners, while the pivot-based run prioritizes repeatability and reliability.
 ---
 
 ## 🏆 RoboFest 2026
