@@ -198,7 +198,7 @@ A saved path allows the robot to start a fast run without having to perform the 
 # 🎮 User Interface
 
 <p align="center">
-  <img src="media/hero/ui.png" alt="team_members" width="500">
+  <img src="media/hero/ui.png" alt="team_members" width="1000">
 </p>
 
 ---
