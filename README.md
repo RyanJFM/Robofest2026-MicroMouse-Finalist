@@ -155,7 +155,7 @@ Approximate recorded run:
 **~40 seconds**
 
 <p align="center">
-  <img src="media/hero/PivotTurns.gif" width="600">
+  <img src="media/hero/PivotTurns.gif" width="300">
 </p>
 
 ---
