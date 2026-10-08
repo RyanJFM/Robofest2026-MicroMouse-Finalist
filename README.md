@@ -56,7 +56,7 @@ The arc-based run prioritizes speed by carrying momentum through corners, while 
 
 <p align="center">
   <a href="https://youtube.com/shorts/KOcPeBH9xBc">
-    <img src="https://img.youtube.com/vi/KOcPeBH9xBc/maxresdefault.jpg" alt="Watch Demo Video" width="400">
+    <img src="https://img.youtube.com/vi/KOcPeBH9xBc/hqdefault.jpg" alt="Watch Mansoyanno in Action" width="350">
   </a>
 </p>
 ---
