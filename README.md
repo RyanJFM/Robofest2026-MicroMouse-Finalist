@@ -155,9 +155,7 @@ Approximate recorded run:
 **~40 seconds**
 
 <p align="center">
-  <a href="media/hero/pivot.mp4">
-    <img src="media/hero/pivot-preview.gif" width="600">
-  </a>
+  <img src="media/hero/PivotTurn.gif" width="600">
 </p>
 
 ---
