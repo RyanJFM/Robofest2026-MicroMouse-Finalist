@@ -155,9 +155,9 @@ Approximate recorded run:
 **~40 seconds**
 
 <p align="center">
-  <video src="media/hero/pivot.mp4" width="600" controls autoplay muted loop playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <a href="media/hero/pivot.mp4">
+    <img src="media/hero/pivot-preview.gif" width="600">
+  </a>
 </p>
 
 ---
