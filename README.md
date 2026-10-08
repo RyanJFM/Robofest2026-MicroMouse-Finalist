@@ -244,7 +244,7 @@ The robot performs a small movement to indicate that the memory has been cleared
 | Electronics        | Hand-soldered dot board             |
 | Status LEDs        | Green + Blue                        |
 
-### Sensor Layout
+### Hardware Layout
 
 The four Sharp IR sensors are arranged as:
 
